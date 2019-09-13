@@ -24,6 +24,9 @@ basandonos en la siguiente regla:
   No-Mutante 
   
   
+  
+  
+  
   A T G C G A 
   
   C A G T G C 
@@ -37,6 +40,7 @@ basandonos en la siguiente regla:
   T C A C T G 
   
     Mutante
+    
   
   Ejemplo (Caso mutante):     String[] dna = {"ATGCGA","CAGTGC","TTATGT","AGAAGG","CCCCTA","TCACTG"};
   
