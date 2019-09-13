@@ -9,19 +9,19 @@ basandonos en la siguiente regla:
   de forma oblicua, horizontal o vertical.
   Para una mayor comprensión tomemos en cuenta los siguientes ejemplos:
   
-  A T G C G A                 A T G C G A       
+  A T G C G A         >>        A T G C G A       
   
-  C A G T G C                 C A G T G C
+  C A G T G C         >>        C A G T G C
                         
-  T T A T T T                 T T A T G T
+  T T A T T T         >>        T T A T G T
                         
-  A G A C G G                 A G A A G G              
+  A G A C G G         >>        A G A A G G              
                         
-  G C G T C A                 C C C C T A           
+  G C G T C A         >>        C C C C T A           
                         
-  T C A C T G                 T C A C T G           
+  T C A C T G         >>        T C A C T G           
                         
-  No-Mutante                    Mutante
+  No-Mutante          >>          Mutante
   
   Ejemplo (Caso mutante):     String[] dna = {"ATGCGA","CAGTGC","TTATGT","AGAAGG","CCCCTA","TCACTG"};
   
