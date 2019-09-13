@@ -26,8 +26,7 @@ basandonos en la siguiente regla:
   
   
   
->>
->>
+
   A T G C G A 
   
   C A G T G C 
