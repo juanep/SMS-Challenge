@@ -46,6 +46,17 @@ basandonos en la siguiente regla:
 *   Compilar y Ejecutar el proyecto: Java JDK 1.8
 *   Gestión de Dependencias: Maven
 
+## Tecnologías involucradas
+
+* Java
+* Maven
+* Spring Data JPA
+* Spring Boot
+* Hibernate
+* H2 DataBase
+* Swagger
+
+
 ## Autor
 
 *     Juan Pereira 
