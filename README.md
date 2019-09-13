@@ -35,7 +35,8 @@ basandonos en la siguiente regla:
   G C G T C A 
               
   T C A C T G 
-    Mutante
+   
+   Mutante
     
   
   Ejemplo (Caso mutante):     String[] dna = {"ATGCGA","CAGTGC","TTATGT","AGAAGG","CCCCTA","TCACTG"};
