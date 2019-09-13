@@ -1,4 +1,4 @@
 # SMS-Challenge
 
-![Under Construction Application](SMS-Challenge/src/main/resources/static/images/under-construction-application-men-at-work-icon.png
+![Under Construction Application](http://old.sesame.org.jo/sesame/images/M_images/page_is_under_construction.jpg
 )
