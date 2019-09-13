@@ -9,7 +9,7 @@ basandonos en la siguiente regla:
   de forma oblicua, horizontal o vertical.
   Para una mayor comprensión tomemos en cuenta los siguientes ejemplos:
 
-*  No-Mutante 
+
   A T G C G A 
   
   C A G T G C 
@@ -21,9 +21,9 @@ basandonos en la siguiente regla:
   G C G T C A 
               
   T C A C T G          
-             
+   No-Mutante          
 
-*   Mutante
+
   A T G C G A 
   
   C A G T G C 
@@ -35,7 +35,7 @@ basandonos en la siguiente regla:
   G C G T C A 
               
   T C A C T G 
-
+    Mutante
     
   
   Ejemplo (Caso mutante):     String[] dna = {"ATGCGA","CAGTGC","TTATGT","AGAAGG","CCCCTA","TCACTG"};
