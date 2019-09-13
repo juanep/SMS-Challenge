@@ -4,6 +4,7 @@
 )
 
 * Mutantes
+
 La aplicación consta de una Api Rest que permitirá distinguir entre Adn mutante y Adn mumano,
 basandonos en la siguiente regla:
 * Sabrás si un humano es mutante, si encuentras más de una secuencia de cuatro letras iguales,
