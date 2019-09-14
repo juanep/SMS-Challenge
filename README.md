@@ -30,11 +30,11 @@
   
   C A G T G C 
               
-  T T A T T T 
+  T T A T G T 
               
-  A G A C G G 
+  A G A A G G 
               
-  G C G T C A 
+  C C C C T A 
               
   T C A C T G 
    
